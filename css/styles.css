@@ -156,3 +156,15 @@ footer {
   font-weight: bold;
   font-size: 22px;
 }
+
+.miyvarxar img {
+  width: 500px;
+  margin-top: 100px;
+  margin-left: 700px;
+}
+
+.miyvarxar p {
+  font-size: 72px;
+  color: white;
+  text-align: center;
+}
